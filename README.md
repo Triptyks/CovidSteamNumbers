@@ -1,4 +1,3 @@
-# Project_Barklow
 
 Run the following command in the shell before running the notebook
 
